@@ -4,3 +4,6 @@ function happyHolidays() {
 function happyHolidaysTo(name) {
   return string = "Happy holidays, you!"
 }
+function happyHolidaysTo(celebration,name) {
+  return string = "Happy easter, Dorcas!"
+}
